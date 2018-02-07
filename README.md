@@ -10,3 +10,7 @@ Brick script – applying proper physics to the ball and bricks so they can coll
 Paddle script – Paddle which moves along x coordinates through mouse detection and where ball 
                              Drops and bounces back.<br/><br/>
 LoseCollider – walls in the game where ball bounces off.<br/><br/>
+
+<img src="https://github.com/iamsiddhesh/Block_breaker/blob/master/Menu.png">
+<img src="https://github.com/iamsiddhesh/Block_breaker/blob/master/gameplay.png">
+<img src="https://github.com/iamsiddhesh/Block_breaker/blob/master/losescreen.png">
